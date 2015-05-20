@@ -1,4 +1,4 @@
-{application,rabbitmq_common,
+{application,rabbit_common,
              [{description,"RabbitMQ Common Libraries"},
               {vsn,"3.5.2"},
               {modules,[app_utils,credit_flow,pmon,gen_server2,
